@@ -6,9 +6,6 @@
 
 ### Libraries used:
 
-#### library for Sht3x
-1. Adafruit_SHT31 2.2.0 https://github.com/adafruit/Adafruit_SHT31
-
 #### library used for Json
 1. Arduino Json 5.5.0 Benoit Blenchon <https://github.com/bblanchon/ArduinoJson>
 
